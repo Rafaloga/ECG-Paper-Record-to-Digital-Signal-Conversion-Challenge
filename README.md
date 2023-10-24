@@ -5,7 +5,7 @@
 </p>
 
 
-# This repository holds the code and resources for the ECG image processing and digitization project.
+This repository holds the code and resources for the ECG image processing and digitization project.
 The project involves developing an image processing algorithm using \textit{OpenCV} or similar libraries to convert ECG paper records into digital signals. The process includes image preprocessing to enhance quality, extracting ECG traces from various layouts, and digitizing these traces. The provided dataset contains diverse ECG paper record images. The solution encompasses reading, preprocessing, segmentation, and digitization, enabling the conversion of paper records into digital ECG data.
 
 ## Directory Structure
