@@ -24,10 +24,10 @@ The project involves developing an image processing algorithm using \textit{Open
 
 ## Web Application
 
-A web application has been developed to offer an interactive approach to the project's functionalities. The associated notebook in the `code/` directory provides details on its development.
+A web application has been developed to offer an interactive approach to the project's functionalities. The associated notebook  provides details on its development.
 
 ## How to Use
 
-For an introduction, use the sample images in the `data/` directory. For a detailed understanding, refer to the report in the `docs/` directory.
+For an introduction, use the self-explained notebooks in the `code/` directory with the sample images in the `data/` directory. For a detailed understanding, refer to the report in the `docs/` directory.
 
 
